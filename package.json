@@ -1,0 +1,12 @@
+{
+  "name": "mizux",
+  "version": "1.0.0",
+  "description": "bootstrap 4 book theme",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass -w scss -o css"
+  },
+  "author": "Laleh",
+  "license": "ISC",
+  "devDependencies": {}
+}

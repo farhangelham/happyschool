@@ -1,0 +1,131 @@
+
+body{
+  background-color: beige;
+}
+
+/* .container{
+  margin-top: 70px;
+} */
+
+.navbar{
+  padding-right: 150px;
+  padding-left: 150px;
+}
+.navbar .nav-link {
+  font-size: 17px;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important; }
+
+.navbar .nav-item.active {
+  border-right: rgb(184, 202, 186) 3px solid; }
+
+.carousel-item {
+  height: 650px; }
+
+.carousel-image-1 {
+  background: url("../img/image2.jpg");
+  background-size: cover; }
+
+.carousel-image-2 {
+  background: url("../img/image3.jpg");
+  background-size: cover; }
+
+.carousel-image-3 {
+  background: url("../img/image4.jpg");
+  background-size: cover; }
+
+.carousel-image-4 {
+  background: url("../img/image5.jpg");
+  background-size: cover; }
+
+.carousel-image-5 {
+  background: url("../img/image6.jpg");
+  background-size: cover; }
+
+.carousel-image-6 {
+  background: url("../img/image10.jpg");
+  background-size: cover; }
+
+.carousel-image-7 {
+  background: url("../img/image11.jpg");
+  background-size: cover; }
+
+.carousel-image-8 {
+  background: url("../img/image12.jpg");
+  background-size: cover; }
+
+
+.img-title{
+  width: 800px;
+}
+
+.card-body{
+  font-family: Scheherazade;
+  font-size: 18px;
+}
+/* #home-icons .fa-cloud {
+  font-size: 55px; }
+
+#home-icons .fa-cog {
+  font-size: 55px; }
+
+#home-icons .fa-cart-plus {
+  font-size: 55px; } */
+
+#home-body {
+  position: relative;
+  min-height: 150px;
+  background: url("../img/lights.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: right;
+  color: #fff; }
+
+#home-heading {
+  position: relative;
+  min-height: 150px;
+  background: url("../img/lights.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: #fff; }
+
+#joke{
+  position: relative;
+  margin-top: 50px;
+  min-height: 130px;
+  background: url("../img/lights.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: #fff; }
+
+
+.dark-overlay {
+  background-color: rgba(238, 241, 235, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+#video-play {
+  position: relative;
+  min-height: 250px;
+  background: url("../img/media.jpg");
+  background-position: 0 -300px;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: #fff; }
+  #video-play a {
+    color: #fff; }
+  #video-play .fa-play {
+    font-size: 55px; }
+
+#main-footer {
+  background: #000;
+  color: #fff; }
