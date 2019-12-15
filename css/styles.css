@@ -3,10 +3,6 @@ body{
   background-color: beige;
 }
 
-/* .container{
-  margin-top: 70px;
-} */
-
 .navbar{
   padding-right: 150px;
   padding-left: 150px;
@@ -54,7 +50,14 @@ body{
   background: url("../img/image12.jpg");
   background-size: cover; }
 
+.carousel-image-9 {
+  background: url("../img/image15.jpg");
+  background-size: cover; }
 
+.carousel-image-10 {
+  background: url("../img/image18.jpg");
+  background-size: cover; }
+ 
 .img-title{
   width: 800px;
 }
@@ -63,14 +66,6 @@ body{
   font-family: Scheherazade;
   font-size: 18px;
 }
-/* #home-icons .fa-cloud {
-  font-size: 55px; }
-
-#home-icons .fa-cog {
-  font-size: 55px; }
-
-#home-icons .fa-cart-plus {
-  font-size: 55px; } */
 
 #home-body {
   position: relative;
@@ -102,7 +97,6 @@ body{
   background-size: cover;
   text-align: center;
   color: #fff; }
-
 
 .dark-overlay {
   background-color: rgba(238, 241, 235, 0.7);
