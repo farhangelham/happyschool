@@ -27,19 +27,19 @@ body{
   background-size: cover; }
 
 .carousel-image-3 {
-  background: url("../img/image2.jpg");
-  background-size: cover; }
-
-.carousel-image-4 {
-  background: url("../img/image5.jpg");
-  background-size: cover; }
-
-.carousel-image-5 {
   background: url("../img/image6.jpg");
   background-size: cover; }
 
-.carousel-image-6 {
+.carousel-image-4 {
+  background: url("../img/image15.jpg");
+  background-size: cover; }
+
+.carousel-image-5 {
   background: url("../img/image10.jpg");
+  background-size: cover; }
+
+.carousel-image-6 {
+  background: url("../img/image2.jpg");
   background-size: cover; }
 
 .carousel-image-7 {
@@ -51,7 +51,7 @@ body{
   background-size: cover; }
 
 .carousel-image-9 {
-  background: url("../img/image15.jpg");
+  background: url("../img/image5.jpg");
   background-size: cover; }
 
 .carousel-image-10 {
