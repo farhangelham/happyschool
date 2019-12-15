@@ -57,7 +57,15 @@ body{
 .carousel-image-10 {
   background: url("../img/image18.jpg");
   background-size: cover; }
- 
+
+ .carousel-image-11 {
+  background: url("../img/image14.jpg");
+  background-size: cover; }
+
+.carousel-image-12 {
+  background: url("../img/image16.jpg");
+  background-size: cover; }
+
 .img-title{
   width: 800px;
 }
