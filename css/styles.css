@@ -66,6 +66,10 @@ body{
   background: url("../img/image16.jpg");
   background-size: cover; }
 
+.carousel-image-13 {
+  background: url("../img/image13.jpg");
+  background-size: cover; }
+
 .img-title{
   width: 800px;
 }
